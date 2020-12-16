@@ -1,5 +1,7 @@
 # taller2
+tener en cuenta que el tiempo para terminar los ejercicios es de 3 dias (detallado en el siguiente parrafo) pasado ese tiempo no se tomaran en cuenta los correos enviados. Se debe enviar la URL del repositorio en un correo con titulo "Taller 2 - Grupo 1"; considerar ese asunto porque de acuerdo a eso se hara el filtro de busqueda.
 
+##Que hacer?
 *Crear un nuevo repositorio, el nombre sera taller2
 *crear dos ramas, en la primera va el ejercicio 1 en la segunda el ejercicio 2
 *añadir una carpeta en el proyecto que contenga los casos de prueba de ambos ejercicios
